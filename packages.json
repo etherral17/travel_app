@@ -1,0 +1,18 @@
+{
+    "Beach Escape": {
+      "image": "beach.jpg",
+      "description": "Relaxing beach-side retreat",
+      "details": "Includes 3 nights at a seaside resort, meals, and snorkeling."
+    },
+    "Mountain Adventure": {
+      "image": "mountain.jpg",
+      "description": "Trekking and adventure activities",
+      "details": "Includes guided hikes, camping gear, and meals for 5 days."
+    },
+    "City Explorer": {
+      "image": "city.jpg",
+      "description": "City tours and cultural experiences",
+      "details": "4 days of exploring museums, food tours, and shopping districts."
+    }
+  }
+  
